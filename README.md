@@ -1,5 +1,5 @@
 # UIUC CS 460/ECE 419 - Fall 2026  
-## Module 5: IoT/Hardware Security Introduction: Inside the Stack — Mapping Hardware and Software Bill of Materials (HBOM + SBOM)
+## Module 5: IoT/Hardware Security Introduction: Inside the Stack - Mapping Hardware and Software Bill of Materials (HBOM + SBOM)
 
 ### **HBOM vs. SBOM Explained**
 
