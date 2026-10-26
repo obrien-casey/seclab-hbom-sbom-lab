@@ -1,5 +1,5 @@
-# UIUC CS 460/ECE 419 - Fall 2025  
-## Module 9: Inside the Stack — Mapping Hardware and Software Bill of Materials (HBOM + SBOM)
+# UIUC CS 460/ECE 419 - Fall 2026  
+## Module 5: IoT/Hardware Security Introduction: Inside the Stack — Mapping Hardware and Software Bill of Materials (HBOM + SBOM)
 
 ### **HBOM vs. SBOM Explained**
 
@@ -69,7 +69,7 @@ Choose one of the following devices:
 ## **Part 1: SBOM Generation (in Codespaces)**
 
 All commands can be executed directly inside your GitHub Codespace using this repo:  
-👉 [https://github.com/obriencasey/cs460-fa-25-hbom-sbom-lab](https://github.com/obriencasey/cs460-fa-25-hbom-sbom-lab)
+👉 https://github.com/obrien-casey/seclab-hbom-sbom-lab](https://github.com/obrien-casey/seclab-hbom-sbom-lab)
 
 ### **Steps**
 
