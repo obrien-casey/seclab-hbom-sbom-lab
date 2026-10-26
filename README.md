@@ -69,7 +69,7 @@ Choose one of the following devices:
 ## **Part 1: SBOM Generation (in Codespaces)**
 
 All commands can be executed directly inside your GitHub Codespace using this repo:  
-👉 https://github.com/obrien-casey/seclab-hbom-sbom-lab](https://github.com/obrien-casey/seclab-hbom-sbom-lab)
+👉 [https://github.com/obrien-casey/seclab-hbom-sbom-lab](https://github.com/obrien-casey/seclab-hbom-sbom-lab)
 
 ### **Steps**
 
