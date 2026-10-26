@@ -9,7 +9,7 @@
     }
   },
 
-  ""postCreateCommand": "bash .devcontainer/setup_tools.sh",
+  "postCreateCommand": "bash .devcontainer/setup_tools.sh",
 
   "customizations": {
     "vscode": {
